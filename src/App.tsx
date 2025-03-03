@@ -469,7 +469,7 @@ function App() {
             <div>
               <h3 className="text-xl font-bold text-blue-300 mb-6">Контакты</h3>
               <ul className="space-y-3 text-blue-100">
-                <li>WhatsApp</li>
+                <li>WhatsApp: 87007492395</li>
                 <li>Адрес: г. Алматы, Казахстан</li>
               </ul>
             </div>
