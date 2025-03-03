@@ -242,7 +242,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="w-full py-3 bg-blue-500 hover:bg-blue-600 rounded-full text-white font-semibold transition-all duration-300 flex items-center justify-center"
                 >
-                  WhatsApp: 77007492395
+                  WhatsApp
                 </a>
               </div>
 
@@ -278,7 +278,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="w-full py-3 bg-purple-500 hover:bg-purple-600 rounded-full text-white font-semibold transition-all duration-300 flex items-center justify-center"
                 >
-                  WhatsApp: 77007492395
+                  WhatsApp
                 </a>
               </div>
             </div>
@@ -399,7 +399,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="px-8 py-3 bg-blue-500 hover:bg-blue-600 rounded-full text-white font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg inline-block"
                 >
-                  WhatsApp: 77007492395
+                  WhatsApp
                 </a>
               </div>
 
@@ -469,7 +469,7 @@ function App() {
             <div>
               <h3 className="text-xl font-bold text-blue-300 mb-6">Контакты</h3>
               <ul className="space-y-3 text-blue-100">
-                <li>WhatsApp: 77007492395</li>
+                <li>WhatsApp</li>
                 <li>Адрес: г. Алматы, Казахстан</li>
               </ul>
             </div>
