@@ -214,7 +214,7 @@ function App() {
                 <div className="flex justify-between items-start mb-6">
                   <div>
                     <h3 className="text-2xl font-bold text-blue-300">Создание сайта</h3>
-                    <p className="text-blue-100 mt-2">Базовая разработка веб-сайта</p>
+                    <p className="text-blue-100 mt-2">Базовая разработка веб-сайта (Оплата после готовности)</p>
                   </div>
                   <div className="text-3xl font-bold text-white">10.000 ТГ</div>
                 </div>
