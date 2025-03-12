@@ -214,22 +214,22 @@ function App() {
                 <div className="flex justify-between items-start mb-6">
                   <div>
                     <h3 className="text-2xl font-bold text-blue-300">Создание сайта</h3>
-                    <p className="text-blue-100 mt-2">Базовая разработка веб-сайта</p>
+                    <p className="text-blue-100 mt-2">Разработка веб-сайта</p>
                   </div>
                   <div className="text-3xl font-bold text-white">Зависит от сайта</div>
                 </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-start">
                     <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
+                    <span className="text-blue-100">Интеграция с соцсетями</span>
+                  </li>
+                  <li className="flex items-start">
+                    <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
+                    <span className="text-blue-100">Интуитивно понятный UX/UI</span>
+                  </li>
+                  <li className="flex items-start">
+                    <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
                     <span className="text-blue-100">Адаптивный дизайн</span>
-                  </li>
-                  <li className="flex items-start">
-                    <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
-                    <span className="text-blue-100">Базовая SEO-оптимизация</span>
-                  </li>
-                  <li className="flex items-start">
-                    <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
-                    <span className="text-blue-100">До 5 страниц</span>
                   </li>
                   <li className="flex items-start">
                     <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
