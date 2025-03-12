@@ -420,7 +420,7 @@ function App() {
                   </div>
                   <div className="bg-blue-800/50 p-4 rounded-lg">
                     <h4 className="font-semibold text-blue-300 mb-2">Технологии</h4>
-                    <p className="text-blue-100">HTML, CSS, JavaScript, React, WordPress</p>
+                    <p className="text-blue-100">HTML, CSS, JavaScript, React</p>
                   </div>
                   <div className="bg-blue-800/50 p-4 rounded-lg">
                     <h4 className="font-semibold text-blue-300 mb-2">Проекты</h4>
@@ -475,7 +475,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-blue-800 mt-12 pt-8 text-center text-blue-100">
-            <p>© 2025 CELAIR. Все права защищены.</p>
+            <p>© 2025 CELAIR.</p>
           </div>
         </div>
       </footer>
