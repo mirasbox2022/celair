@@ -386,7 +386,7 @@ function App() {
                   </li>
                   <li className="flex items-start">
                     <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
-                    <span>Использование современных технологий</span>
+                    <span>Использование современных технологий (ИИ)</span>
                   </li>
                   <li className="flex items-start">
                     <ChevronDown className="text-blue-300 mr-2 flex-shrink-0 mt-1" size={18} />
