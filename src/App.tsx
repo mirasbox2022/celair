@@ -440,7 +440,7 @@ function App() {
             <div>
               <div className="flex items-center space-x-2 mb-6">
                 <Code className="text-blue-300" size={32} />
-                <h2 className="text-2xl font-bold text-white">CELAIR</h2>
+                <h2 className="text-2xl font-bold text-white">WEBBYZHAN</h2>
               </div>
               <p className="text-blue-100 mb-6">
                 Профессиональная разработка веб-сайтов под ваши потребности и бюджет.
@@ -475,7 +475,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-blue-800 mt-12 pt-8 text-center text-blue-100">
-            <p>© 2025 CELAIR.</p>
+            <p>© 2025 WEBBYZHAN.</p>
           </div>
         </div>
       </footer>
