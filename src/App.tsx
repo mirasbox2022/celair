@@ -63,7 +63,7 @@ function App() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2 animate-fadeIn">
             <Code className="text-blue-300" size={32} />
-            <h1 className="text-2xl font-bold text-white">CELAIR</h1>
+            <h1 className="text-2xl font-bold text-white">WEBBYZHAN</h1>
           </div>
 
           {/* Desktop Navigation */}
